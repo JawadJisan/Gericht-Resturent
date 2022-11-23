@@ -110,7 +110,7 @@
     }
     
 }
-@media screen and (max-width: 2000px) {
+@media screen and (max-width: 650px) {
     .app__gallery{
         padding:4rem 0 4rem 2rem ;
     }
